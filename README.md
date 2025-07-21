@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/hardik0832/leetcode-cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Trie
 |  |
