@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hardik0832/leetcode-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -40,6 +41,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hardik0832/leetcode-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hardik0832/leetcode-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hardik0832/leetcode-cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
