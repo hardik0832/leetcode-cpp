@@ -13,12 +13,14 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hardik0832/leetcode-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hardik0832/leetcode-cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hardik0832/leetcode-cpp/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hardik0832/leetcode-cpp/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -58,6 +60,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hardik0832/leetcode-cpp/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
@@ -84,4 +87,8 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
+## Sort
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
