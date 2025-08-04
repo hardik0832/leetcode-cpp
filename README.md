@@ -6,6 +6,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hardik0832/leetcode-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -19,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
@@ -40,6 +42,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hardik0832/leetcode-cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hardik0832/leetcode-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
