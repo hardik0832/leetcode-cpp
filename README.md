@@ -18,6 +18,7 @@
 | [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hardik0832/leetcode-cpp/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hardik0832/leetcode-cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hardik0832/leetcode-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -115,4 +118,5 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
