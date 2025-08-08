@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/hardik0832/leetcode-cpp/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hardik0832/leetcode-cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sort
@@ -125,4 +126,12 @@
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hardik0832/leetcode-cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Math
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/hardik0832/leetcode-cpp/tree/master/0826-soup-servings) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/hardik0832/leetcode-cpp/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
