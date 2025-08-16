@@ -72,6 +72,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/hardik0832/leetcode-cpp/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hardik0832/leetcode-cpp/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
@@ -140,6 +141,7 @@
 | [0342-power-of-four](https://github.com/hardik0832/leetcode-cpp/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/hardik0832/leetcode-cpp/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/hardik0832/leetcode-cpp/tree/master/1448-maximum-69-number) |
 ## Probability and Statistics
 |  |
 | ------- |
