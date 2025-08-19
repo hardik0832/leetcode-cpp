@@ -14,6 +14,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hardik0832/leetcode-cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hardik0832/leetcode-cpp/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hardik0832/leetcode-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hardik0832/leetcode-cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
@@ -148,6 +149,7 @@
 | [0867-new-21-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/hardik0832/leetcode-cpp/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Probability and Statistics
 |  |
 | ------- |
