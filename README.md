@@ -7,6 +7,7 @@
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0679-24-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
