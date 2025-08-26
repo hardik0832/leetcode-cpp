@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/hardik0832/leetcode-cpp/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0171-excel-sheet-column-number) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hardik0832/leetcode-cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/hardik0832/leetcode-cpp/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/hardik0832/leetcode-cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hardik0832/leetcode-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hardik0832/leetcode-cpp/tree/master/0342-power-of-four) |
