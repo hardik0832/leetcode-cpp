@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/hardik0832/leetcode-cpp/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/hardik0832/leetcode-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/hardik0832/leetcode-cpp/tree/master/0205-isomorphic-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hardik0832/leetcode-cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
