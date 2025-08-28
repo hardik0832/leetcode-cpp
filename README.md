@@ -57,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/hardik0832/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/hardik0832/leetcode-cpp/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0344-reverse-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hardik0832/leetcode-cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -120,6 +121,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
