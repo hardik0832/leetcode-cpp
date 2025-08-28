@@ -30,6 +30,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hardik0832/leetcode-cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/hardik0832/leetcode-cpp/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/hardik0832/leetcode-cpp/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hardik0832/leetcode-cpp/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
@@ -169,6 +170,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hardik0832/leetcode-cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/hardik0832/leetcode-cpp/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/hardik0832/leetcode-cpp/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0169-majority-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
+| [3748-sort-matrix-by-diagonals](https://github.com/hardik0832/leetcode-cpp/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
 | ------- |
