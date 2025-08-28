@@ -54,6 +54,7 @@
 | [0171-excel-sheet-column-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/hardik0832/leetcode-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hardik0832/leetcode-cpp/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hardik0832/leetcode-cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -89,10 +90,12 @@
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Greedy
 |  |
@@ -103,6 +106,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hardik0832/leetcode-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
@@ -227,4 +231,8 @@
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/hardik0832/leetcode-cpp/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
