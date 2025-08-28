@@ -41,6 +41,7 @@
 | [0205-isomorphic-strings](https://github.com/hardik0832/leetcode-cpp/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hardik0832/leetcode-cpp/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/hardik0832/leetcode-cpp/tree/master/0290-word-pattern) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
@@ -55,6 +56,7 @@
 | [0205-isomorphic-strings](https://github.com/hardik0832/leetcode-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hardik0832/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/hardik0832/leetcode-cpp/tree/master/0290-word-pattern) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hardik0832/leetcode-cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
