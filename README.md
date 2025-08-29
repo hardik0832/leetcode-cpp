@@ -208,6 +208,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/hardik0832/leetcode-cpp/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/hardik0832/leetcode-cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hardik0832/leetcode-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hardik0832/leetcode-cpp/tree/master/0342-power-of-four) |
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hardik0832/leetcode-cpp/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
