@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0832/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0832/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0826-soup-servings](https://github.com/hardik0832/leetcode-cpp/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
