@@ -96,11 +96,13 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Greedy
 |  |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
