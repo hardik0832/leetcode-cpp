@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik0832/leetcode-cpp/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/hardik0832/leetcode-cpp/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0832/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0136-single-number) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik0832/leetcode-cpp/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/hardik0832/leetcode-cpp/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/hardik0832/leetcode-cpp/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
@@ -181,6 +183,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/hardik0832/leetcode-cpp/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/hardik0832/leetcode-cpp/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hardik0832/leetcode-cpp/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hardik0832/leetcode-cpp/tree/master/1628-count-submatrices-with-all-ones) |
