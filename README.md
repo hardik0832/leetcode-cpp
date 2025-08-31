@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/hardik0832/leetcode-cpp/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/hardik0832/leetcode-cpp/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hardik0832/leetcode-cpp/tree/master/0037-sudoku-solver) |
+| [0056-merge-intervals](https://github.com/hardik0832/leetcode-cpp/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0832/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0136-single-number) |
@@ -232,6 +233,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/hardik0832/leetcode-cpp/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hardik0832/leetcode-cpp/tree/master/0242-valid-anagram) |
