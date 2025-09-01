@@ -22,6 +22,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hardik0832/leetcode-cpp/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hardik0832/leetcode-cpp/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
+| [1917-maximum-average-pass-ratio](https://github.com/hardik0832/leetcode-cpp/tree/master/1917-maximum-average-pass-ratio) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hardik0832/leetcode-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hardik0832/leetcode-cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/hardik0832/leetcode-cpp/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/hardik0832/leetcode-cpp/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hardik0832/leetcode-cpp/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
@@ -277,4 +279,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hardik0832/leetcode-cpp/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/hardik0832/leetcode-cpp/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
