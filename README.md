@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik0832/leetcode-cpp/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/hardik0832/leetcode-cpp/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/hardik0832/leetcode-cpp/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hardik0832/leetcode-cpp/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/hardik0832/leetcode-cpp/tree/master/0056-merge-intervals) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardik0832/leetcode-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/hardik0832/leetcode-cpp/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
@@ -240,6 +242,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hardik0832/leetcode-cpp/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/hardik0832/leetcode-cpp/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
