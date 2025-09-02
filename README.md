@@ -36,6 +36,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hardik0832/leetcode-cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/hardik0832/leetcode-cpp/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hardik0832/leetcode-cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hardik0832/leetcode-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Two Pointers
 |  |
@@ -229,6 +231,7 @@
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/hardik0832/leetcode-cpp/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/hardik0832/leetcode-cpp/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Probability and Statistics
 |  |
@@ -251,6 +254,7 @@
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hardik0832/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/hardik0832/leetcode-cpp/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -294,4 +298,8 @@
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/hardik0832/leetcode-cpp/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
