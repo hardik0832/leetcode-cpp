@@ -150,6 +150,7 @@
 | [0005-longest-palindromic-substring](https://github.com/hardik0832/leetcode-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hardik0832/leetcode-cpp/tree/master/0015-3sum) |
+| [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
@@ -254,6 +255,7 @@
 | [0169-majority-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hardik0832/leetcode-cpp/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/hardik0832/leetcode-cpp/tree/master/3748-sort-matrix-by-diagonals) |
@@ -299,9 +301,18 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/hardik0832/leetcode-cpp/tree/master/1917-maximum-average-pass-ratio) |
 ## Geometry
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
