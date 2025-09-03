@@ -248,6 +248,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hardik0832/leetcode-cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hardik0832/leetcode-cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/hardik0832/leetcode-cpp/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/hardik0832/leetcode-cpp/tree/master/0231-power-of-two) |
@@ -297,6 +298,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hardik0832/leetcode-cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hardik0832/leetcode-cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/hardik0832/leetcode-cpp/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
