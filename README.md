@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/hardik0832/leetcode-cpp/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/hardik0832/leetcode-cpp/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hardik0832/leetcode-cpp/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/hardik0832/leetcode-cpp/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0832/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -152,6 +153,7 @@
 | [0005-longest-palindromic-substring](https://github.com/hardik0832/leetcode-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hardik0832/leetcode-cpp/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0345-reverse-vowels-of-a-string) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardik0832/leetcode-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0832/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0826-soup-servings](https://github.com/hardik0832/leetcode-cpp/tree/master/0826-soup-servings) |
@@ -271,10 +274,12 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hardik0832/leetcode-cpp/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hardik0832/leetcode-cpp/tree/master/1628-count-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
