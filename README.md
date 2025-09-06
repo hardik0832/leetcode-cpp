@@ -62,6 +62,7 @@
 | [0290-word-pattern](https://github.com/hardik0832/leetcode-cpp/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/hardik0832/leetcode-cpp/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/hardik0832/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
@@ -83,6 +84,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/hardik0832/leetcode-cpp/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/hardik0832/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hardik0832/leetcode-cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -111,6 +113,7 @@
 | [0136-single-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hardik0832/leetcode-cpp/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/hardik0832/leetcode-cpp/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/hardik0832/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hardik0832/leetcode-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -274,6 +277,7 @@
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hardik0832/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
+| [0389-find-the-difference](https://github.com/hardik0832/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
