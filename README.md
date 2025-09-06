@@ -85,6 +85,7 @@
 | [0383-ransom-note](https://github.com/hardik0832/leetcode-cpp/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hardik0832/leetcode-cpp/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/hardik0832/leetcode-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hardik0832/leetcode-cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -114,6 +115,7 @@
 | [0231-power-of-two](https://github.com/hardik0832/leetcode-cpp/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/hardik0832/leetcode-cpp/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/hardik0832/leetcode-cpp/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/hardik0832/leetcode-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hardik0832/leetcode-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -243,6 +245,7 @@
 | [0231-power-of-two](https://github.com/hardik0832/leetcode-cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hardik0832/leetcode-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hardik0832/leetcode-cpp/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/hardik0832/leetcode-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0679-24-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/hardik0832/leetcode-cpp/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0867-new-21-game) |
