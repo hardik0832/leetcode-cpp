@@ -89,6 +89,7 @@
 | [0392-is-subsequence](https://github.com/hardik0832/leetcode-cpp/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hardik0832/leetcode-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/hardik0832/leetcode-cpp/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/hardik0832/leetcode-cpp/tree/master/0415-add-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hardik0832/leetcode-cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hardik0832/leetcode-cpp/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/hardik0832/leetcode-cpp/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/hardik0832/leetcode-cpp/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -253,6 +255,7 @@
 | [0342-power-of-four](https://github.com/hardik0832/leetcode-cpp/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hardik0832/leetcode-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/hardik0832/leetcode-cpp/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/hardik0832/leetcode-cpp/tree/master/0415-add-strings) |
 | [0679-24-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/hardik0832/leetcode-cpp/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0867-new-21-game) |
