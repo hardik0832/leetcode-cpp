@@ -96,6 +96,7 @@
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hardik0832/leetcode-cpp/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -299,6 +300,7 @@
 | [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/hardik0832/leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/hardik0832/leetcode-cpp/tree/master/3748-sort-matrix-by-diagonals) |
