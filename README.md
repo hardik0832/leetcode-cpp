@@ -77,6 +77,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/hardik0832/leetcode-cpp/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hardik0832/leetcode-cpp/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hardik0832/leetcode-cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -249,6 +250,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/hardik0832/leetcode-cpp/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
@@ -372,6 +374,7 @@
 | [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/hardik0832/leetcode-cpp/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/hardik0832/leetcode-cpp/tree/master/3678-design-task-manager) |
 ## Geometry
 |  |
 | ------- |
@@ -382,6 +385,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/hardik0832/leetcode-cpp/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
