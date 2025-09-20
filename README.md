@@ -54,6 +54,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/hardik0832/leetcode-cpp/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/hardik0832/leetcode-cpp/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [3678-design-task-manager](https://github.com/hardik0832/leetcode-cpp/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hardik0832/leetcode-cpp/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/hardik0832/leetcode-cpp/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/hardik0832/leetcode-cpp/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hardik0832/leetcode-cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -204,6 +206,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hardik0832/leetcode-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/hardik0832/leetcode-cpp/tree/master/3827-implement-router) |
 ## Brainteaser
 |  |
 | ------- |
@@ -256,6 +259,7 @@
 | [3678-design-task-manager](https://github.com/hardik0832/leetcode-cpp/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/hardik0832/leetcode-cpp/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -391,6 +395,7 @@
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/hardik0832/leetcode-cpp/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/hardik0832/leetcode-cpp/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/hardik0832/leetcode-cpp/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -400,6 +405,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/hardik0832/leetcode-cpp/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/hardik0832/leetcode-cpp/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
