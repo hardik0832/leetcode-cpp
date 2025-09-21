@@ -30,6 +30,7 @@
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hardik0832/leetcode-cpp/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/hardik0832/leetcode-cpp/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hardik0832/leetcode-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hardik0832/leetcode-cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -76,6 +77,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/hardik0832/leetcode-cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/hardik0832/leetcode-cpp/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hardik0832/leetcode-cpp/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/hardik0832/leetcode-cpp/tree/master/2689-rearranging-fruits) |
@@ -255,6 +257,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/hardik0832/leetcode-cpp/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
@@ -381,6 +384,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/hardik0832/leetcode-cpp/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/hardik0832/leetcode-cpp/tree/master/3678-design-task-manager) |
 ## Geometry
@@ -392,6 +396,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
+| [2023-design-movie-rental-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/hardik0832/leetcode-cpp/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/hardik0832/leetcode-cpp/tree/master/3797-design-spreadsheet) |
