@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/hardik0832/leetcode-cpp/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0832/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0162-find-peak-element) |
@@ -227,6 +228,7 @@
 | [0005-longest-palindromic-substring](https://github.com/hardik0832/leetcode-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0832/leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/hardik0832/leetcode-cpp/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/hardik0832/leetcode-cpp/tree/master/0826-soup-servings) |
