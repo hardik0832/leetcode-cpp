@@ -20,6 +20,7 @@
 | [0200-number-of-islands](https://github.com/hardik0832/leetcode-cpp/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/hardik0832/leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/hardik0832/leetcode-cpp/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/hardik0832/leetcode-cpp/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hardik0832/leetcode-cpp/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/hardik0832/leetcode-cpp/tree/master/1917-maximum-average-pass-ratio) |
@@ -206,11 +208,13 @@
 | [0344-reverse-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/hardik0832/leetcode-cpp/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0162-find-peak-element) |
+| [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hardik0832/leetcode-cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hardik0832/leetcode-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
@@ -337,6 +341,7 @@
 | [0242-valid-anagram](https://github.com/hardik0832/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/hardik0832/leetcode-cpp/tree/master/0389-find-the-difference) |
+| [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [2887-sort-vowels-in-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
