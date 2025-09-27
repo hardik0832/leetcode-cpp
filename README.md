@@ -22,6 +22,7 @@
 | [0498-diagonal-traverse](https://github.com/hardik0832/leetcode-cpp/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/hardik0832/leetcode-cpp/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/hardik0832/leetcode-cpp/tree/master/1006-vowel-spellchecker) |
@@ -304,6 +305,7 @@
 | [0415-add-strings](https://github.com/hardik0832/leetcode-cpp/tree/master/0415-add-strings) |
 | [0679-24-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/hardik0832/leetcode-cpp/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/hardik0832/leetcode-cpp/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hardik0832/leetcode-cpp/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -405,6 +407,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/hardik0832/leetcode-cpp/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Design
