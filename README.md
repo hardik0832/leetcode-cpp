@@ -23,6 +23,7 @@
 | [0498-diagonal-traverse](https://github.com/hardik0832/leetcode-cpp/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/hardik0832/leetcode-cpp/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/hardik0832/leetcode-cpp/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hardik0832/leetcode-cpp/tree/master/0940-fruit-into-baskets) |
@@ -175,6 +176,7 @@
 | [0257-binary-tree-paths](https://github.com/hardik0832/leetcode-cpp/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hardik0832/leetcode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/0543-diameter-of-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0794-swim-in-rising-water) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Greedy
 |  |
@@ -222,6 +224,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/hardik0832/leetcode-cpp/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0794-swim-in-rising-water) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hardik0832/leetcode-cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hardik0832/leetcode-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
@@ -294,6 +297,7 @@
 | [0200-number-of-islands](https://github.com/hardik0832/leetcode-cpp/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hardik0832/leetcode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/hardik0832/leetcode-cpp/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hardik0832/leetcode-cpp/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hardik0832/leetcode-cpp/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -409,14 +413,17 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/hardik0832/leetcode-cpp/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hardik0832/leetcode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hardik0832/leetcode-cpp/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0794-swim-in-rising-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hardik0832/leetcode-cpp/tree/master/0295-find-median-from-data-stream) |
+| [0794-swim-in-rising-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/hardik0832/leetcode-cpp/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
