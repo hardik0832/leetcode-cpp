@@ -44,6 +44,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hardik0832/leetcode-cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hardik0832/leetcode-cpp/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hardik0832/leetcode-cpp/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hardik0832/leetcode-cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hardik0832/leetcode-cpp/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -219,6 +220,7 @@
 | [0392-is-subsequence](https://github.com/hardik0832/leetcode-cpp/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hardik0832/leetcode-cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0794-swim-in-rising-water) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hardik0832/leetcode-cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hardik0832/leetcode-cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hardik0832/leetcode-cpp/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
@@ -365,6 +368,7 @@
 | [0611-valid-triangle-number](https://github.com/hardik0832/leetcode-cpp/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/hardik0832/leetcode-cpp/tree/master/1018-largest-perimeter-triangle) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hardik0832/leetcode-cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/hardik0832/leetcode-cpp/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hardik0832/leetcode-cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
