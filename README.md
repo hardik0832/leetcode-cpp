@@ -64,6 +64,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hardik0832/leetcode-cpp/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hardik0832/leetcode-cpp/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hardik0832/leetcode-cpp/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/hardik0832/leetcode-cpp/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/hardik0832/leetcode-cpp/tree/master/3827-implement-router) |
 ## Hash Table
@@ -267,6 +268,7 @@
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hardik0832/leetcode-cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hardik0832/leetcode-cpp/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Segment Tree
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/hardik0832/leetcode-cpp/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hardik0832/leetcode-cpp/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Ordered Set
 |  |
 | ------- |
