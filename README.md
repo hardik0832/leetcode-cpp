@@ -136,6 +136,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/hardik0832/leetcode-cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hardik0832/leetcode-cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hardik0832/leetcode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hardik0832/leetcode-cpp/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1894-merge-strings-alternately](https://github.com/hardik0832/leetcode-cpp/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hardik0832/leetcode-cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hardik0832/leetcode-cpp/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -194,6 +195,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/hardik0832/leetcode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hardik0832/leetcode-cpp/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hardik0832/leetcode-cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Greedy
 |  |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/hardik0832/leetcode-cpp/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hardik0832/leetcode-cpp/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hardik0832/leetcode-cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hardik0832/leetcode-cpp/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hardik0832/leetcode-cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -451,6 +454,7 @@
 | [0200-number-of-islands](https://github.com/hardik0832/leetcode-cpp/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hardik0832/leetcode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/hardik0832/leetcode-cpp/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hardik0832/leetcode-cpp/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
 | ------- |
